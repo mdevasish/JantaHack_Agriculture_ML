@@ -46,3 +46,5 @@ Results :
 Best score achived on default configuration of LGBM on public test data :: 0.813811629078292
 
 Best score achived on default configuration of LGBM on private test data :: 0.812239086894621
+
+URL : https://datahack.analyticsvidhya.com/contest/janatahack-machine-learning-in-agriculture/#About
