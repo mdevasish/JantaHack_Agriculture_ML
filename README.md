@@ -23,6 +23,18 @@ You need to determine the outcome of the harvest season, i.e. whether the crop w
 | Season | Season Category (1,2,3) |
 | Crop_Damage	| Crop Damage Category (0=alive, 1=Damage due to other causes, 2=Damage due to Pesticides) |
 
-Evaluation Metric
+Evaluation Metric : The evaluation metric for this hackathon is Accuracy Score.
 
-The evaluation metric for this hackathon is Accuracy Score.
+Approach :
+
+1. Exploratory Data Analysis
+
+2. Feature Engineering
+
+3. Model Building
+
+4. Predictions on test Data.
+
+Methodologies Used :
+
+Boosting techniques :: XgBoost, CatBoost, LGBM
