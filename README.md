@@ -25,6 +25,8 @@ You need to determine the outcome of the harvest season, i.e. whether the crop w
 
 Evaluation Metric : The evaluation metric for this hackathon is Accuracy Score.
 
+Public and Private split : The public leaderboard is based on 30% of test data, while final rank would be decided on remaining 70% of test data (which is private leaderboard)
+
 Approach :
 
 1. Exploratory Data Analysis
@@ -38,3 +40,7 @@ Approach :
 Methodologies Used :
 
 Boosting techniques :: XgBoost, CatBoost, LGBM
+
+Best score achived on default configuration of LGBM on public test data :: 0.813811629078292
+
+Best score achived on default configuration of LGBM on private test data :: 0.812239086894621
